@@ -10811,6 +10811,19 @@ a.text-dark:hover, a.text-dark:focus {
   opacity: 1;
 }
 
+.avatar {
+  border: 1rem solid white;
+  border-radius: 1rem;
+}
+
+.skills i {
+  font-size: 2rem;
+}
+
+.text {
+  font-weight: 500;
+}
+
 .floating-label-form-group {
   position: relative;
   border-bottom: 1px solid #e9ecef;
